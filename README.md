@@ -44,5 +44,6 @@ This project is licensed under the **MIT License**.
 
 ## Contact & Author
 **Email:** taha_abbas@aptechnorth.edu.pk
+<br>
 **GitHub:** [Your GitHub](https://github.com/taha-aptech)
 
