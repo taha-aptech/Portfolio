@@ -42,7 +42,7 @@ This project is licensed under the **MIT License**.
 ## Screenshots
 ![Portfolio](https://github.com/user-attachments/assets/ee8c7563-9799-4089-9ff0-ea6d8bf037ed)
 
-## Contact & Author
+## Contact Me
 **Email:** taha_abbas@aptechnorth.edu.pk
 <br>
 **GitHub:** [Your GitHub](https://github.com/taha-aptech)
