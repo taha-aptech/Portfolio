@@ -40,9 +40,9 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 This project is licensed under the **MIT License**.
 
 ## Screenshots
-![Portfolio Homepage](![image](https://github.com/user-attachments/assets/ee8c7563-9799-4089-9ff0-ea6d8bf037ed)
+![Portfolio](https://github.com/user-attachments/assets/ee8c7563-9799-4089-9ff0-ea6d8bf037ed)
 
 ## Contact & Author
 **Email:** taha_abbas@aptechnorth.edu.pk
-**GitHub:** [[Your GitHub](https://github.com/taha-aptech)](https://github.com/taha-aptech)
+**GitHub:** [Your GitHub](https://github.com/taha-aptech)
 
